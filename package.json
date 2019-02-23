@@ -6,6 +6,7 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "eslint": "^5.13.0",
+    "fs": "0.0.1-security",
     "gatsby": "^2.1.2",
     "gatsby-image": "^2.0.29",
     "gatsby-plugin-manifest": "^2.0.17",
